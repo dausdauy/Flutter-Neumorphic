@@ -18,7 +18,7 @@ import 'package:flutter/widgets.dart';
 ///   _scale = 0.5
 /// });
 ///
-/// This will aimate the child's scale from 1 to 0.5 in 150ms (default duration)
+/// This will animate the child's scale from 1 to 0.5 in 150ms (default duration)
 ///
 class AnimatedScale extends StatefulWidget {
   final Widget? child;
